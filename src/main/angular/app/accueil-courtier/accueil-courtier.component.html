@@ -1,0 +1,76 @@
+<div *ngIf="languageInjectable.property">
+  <div class="row">
+    <div class="col-sm-12">
+      <p class="titleAccueilCourtier">
+        {{ "courtier.accueil.titre" | language }}
+      </p>
+    </div>
+  </div>
+
+  <div *ngIf="showLigne" >
+    <hr class="ligne" />
+
+  </div>
+
+  <div class="col-sm-4">
+    <!-- <spring:message
+               code="courtier.accueil.total.cotisations.annuelles.monnaie"
+               var="monnaie" /> -->
+    <!-- <h2>{{'courtier.accueil.total.cotisations.annuelles.monnaie' | language}}</h2> -->
+    <table>
+      <tr>
+        <td class="footable-first-visible" style="border: none;"  colspan="2">
+        
+            {{ "courtier.accueil.total.contrats.collectifs" | language }} :
+        
+          
+        </td>
+        <td class="footable-first-visible" style="border: none;" align="right">
+          
+            {{ accountCC }}
+          
+        </td>
+      </tr>
+
+      <tr>
+        <td  class="footable-first-visible" style="border: none;" colspan="2">
+          {{ "courtier.accueil.total.assures" | language }} :
+        </td >
+        <td class="footable-first-visible" style="border: none;" align="right">
+         
+            {{ accountAS }}
+          
+        </td>
+      </tr>
+      <tr>
+        <td class="footable-first-visible" style="border: none;" colspan="2">
+          {{ "courtier.accueil.total.ayants.droits" | language }}:
+        </td>
+        <td class="footable-first-visible" style="border: none;" align="right">
+         
+            {{ accountAD }}
+          
+        </td>
+      </tr>
+      <tr>
+        <td class="footable-first-visible" style="border: none;" colspan="2">
+          
+            {{ "courtier.accueil.total.cotisations.annuelles" | language }}:
+          
+        </td>
+        <td  class="footable-first-visible" style="border: none;" align="right">
+         
+            {{ accountCA | currency : 'EUR' : 'symbol': '1.2-2' : 'fr'}}
+          
+         
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!-- <div>
+    {{
+        "courtier.accueil.total.cotisations.annuelles.monnaie" | language
+      }}
+</div> -->
+

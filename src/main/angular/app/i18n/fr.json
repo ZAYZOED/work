@@ -1,0 +1,203 @@
+{
+    "affiliation": {
+        "header": {
+            "bienvenue": "Bienvenue",
+            "url": "april.fr",
+            "mon_compte": "Mon compte",
+            "bonjour": "Bonjour",
+            "deconnexion": "Déconnexion"
+        },
+        "footer": {
+            "copyright": "Copyright ® Tessi 2021 all right reserved",
+            "societe": {
+                "txt": "MMA Gestion collective \nTSA 2015\n 31602 MURET Cedex"
+            }
+        },
+        "cookies": {
+            "salut": "Salut c'est nous..",
+            "cookie": "les Cookies !",
+            "msg": "On a attendu d'être sûrs que le contenu de ce site vous intéresse avant de vous déranger, mais on aimerait bien vous accompagner pendant votre visite...C'est OK pour vous ?",
+            "ok": "OK pour moi"
+        },
+        "timout": {
+            "msg": {
+                "prt1": "Attention! En raison d'inactivité, votre session expirera dans",
+                "prt2": ". Pour rallonger votre session de 15 minute(s), merci de presser le bouton Étendre."
+            },
+            "inactivite": "En raison d'inactivité, votre session a expiré. Veuillez sauvegarder les données que vous avez pu entrer avant de recharger la page.",
+            "etendre": "Étendre"
+        },
+        "login": {
+            "compte_non_actif": "Votre compte n'est pas actif.",
+            "pass_sent": "Votre nouveau mot de passe est envoyé par email.",
+            "cnx_espace": "Connexion à votre espace",
+            "credentials_wrong": "Votre identifiant ou mot de passe est incorrect, veuillez-vous identifier à nouveau. Attention le nombre d'essais est limité.",
+            "cmpt_expire": "Votre compte est expiré, veuillez contacter votre centre de gestion au 03 28 53 20 20 du lundi au vendredi de 9h00 à 18h00.",
+            "cmpt_blocke": " Votre compte est bloqué, veuillez contacter votre centre de gestion au 03 28 53 20 20 du lundi au vendredi de 9h00 à 18h00",
+            "identifiant_au": "Où trouver votre identifiant ?",
+            "email": "Email",
+            "pwd": "Mot de passe",
+            "x": "x",
+            "forget_pass": "Mot de passe oublié ?",
+            "btn": {
+                "se_connecte": "Je me connecte",
+                "renit_pass": "Réinitialiser le mot de passe",
+                "back": "Retour à l'identification"
+            },
+            "errors": {
+                "required": "Champ obligatoire",
+                "ident_incorrect": "Identifiant incorrect"
+            },
+            "popup": {
+                "prt1": "Vous ne connaissez pas votre d'utiliser ? vous pouvez contacter le service Santé de Owliance Assurances pour recevoir de nouveau vos identifiants",
+                "prt2": "Par téléphone Service Clients Santé : 00 00 00 00 00 du lundi au vendredi de 9h à 18h sans interruption.",
+                "prt3": "Par mail: XXXXXXXX@tessi.fr",
+                "prt4": "Si vous n'avez pas encore personnaliser votre mot de passe, nous vous invitons à le faire en utilisant le lien dans l'email Création que nous vous avons envoyé"
+            }
+        },
+        "renit_pass": {
+            "link_sent": "Envoi d'un lien de rénitialisation",
+            "procedure": "La procédure pour récupérer votre mot de passe vous a été adressée par e-mail.",
+            "btn": "Vous connecter",
+            "info": "E-mail non reçu ? \nPensez à consulter votre courrier indésirabe / spam.",
+            "pass_sent": "Votre nouveau mot de passe est envoyé par email."
+        },
+        "welcome": {
+            "bienvenue": "Bienvenue",
+            "mr": "Mr",
+            "mme": "Mme",
+            "espace_affiliation": "à l'espace d'affiliation",
+            "tooltip": "contact.xxxx@gg.yy \n Tél: 0102030222",
+            "title": {
+                "prt1": "Pour vous affilier aux contrats Santé et Prévoyance souscrit par votre entreprise ",
+                "prt2": ", suivez les étapes suivantes"
+            },
+            "steps": {
+                "step1": "Complétez les informations de votre profil",
+                "step2": "Selon votre profil une couverture supplémentaire pourra étre proposée",
+                "step3": "Finaliser la souscription"
+            },
+            "info": "A la suite de votre affiliation, des informations poourront étre demandées par notre service de gestion.",
+            "btn": {
+                "affiliation": "Commencer l'affiliation"
+            },
+            "documents": "Documents",
+            "popup": {
+                "password": "Mot de passe",
+                "confirmation": "Confirmation mot de passe",
+                "info": {
+                    "prt1": "Votre mot de passe doit comporter au minimum 10 caractères alphanumériques dont au moins un caractère spécial (*,/,@ ...) et être différent de vos trois derniers mots de passe.",
+                    "prt2": "Votre mot de passe doit être différent de l'identifiant.",
+                    "required": "[*] Champs obligatoires"
+                },
+                "errors": {
+                    "required": "Champ obligatoire",
+                    "confirmation": "Les mots de passe saisis ne correspondent pas. Merci de vérifier votre saisie."
+                },
+                "btn": {
+                    "annuler": "Annuler",
+                    "valider": "Valider"
+                }
+            }
+        },
+        "vosGaranties": {
+            "titles": {
+                "first": "Renforcer les garantie de votre contrat",
+                "second": "Souhaitez-vous renforcer les garanties mises en place par votre entreprise ?",
+                "third": "Je suis informé(e) que le niveau de Renfort sélectionné sera identique pour l'ensemble des bénéficiaires, les cotisations étant à ma charge exclusive."
+            },
+            "formules": {
+                "actes": {
+                    "plus": "Voir plus",
+                    "moins": "Voir moins"
+                },
+                "base": {
+                    "info": "Votre couverture de base",
+                    "tooltip": "Cette Cotisation représente le surcoùt à votre charge pour l'ajout de vos bénéficiaires."
+                },
+                "perMois": "€/Mois",
+                "plus": "+",
+                "euro": "€",
+                "downloadGaranties": "Telecharger le tableau de garanties",
+                "buttons": {
+                    "suivant": "Suivant",
+                    "precedent": "Précédent",
+                    "save": "Sauvegarder et Repondre ultérieurement"
+                }
+            },
+            "saveInfo": {
+                "msg": "Toutes les informations de votre affiliation sont sauvegardées. Vous pouvez à n'importe quel moment finaliser votre affiliation en vous connectant sur votre compte dont les accés vous ont été envoyés par email.",
+                "btnClose": "Fermer"
+            },
+            "resiliation": {
+                "title": "Résiliation de votre ancien contrat",
+                "close": "x",
+                "labels": {
+                    "resiliation": "Souhaitez-vous nous confier la résiliation de votre ancienne mutuelle ?",
+                    "ancienneComplementaire": "Résiliation de votre ancienne complémentaire santé",
+                    "ancienneMutuelle": "Quel est votre ancienne mutuelle ?",
+                    "refContrat": "Référence contrat",
+                    "datRadiation": "Date estimé de radiation",
+                    "adresse": "Adresse de votre ancienne mutuelle",
+                    "cp": "Code postal",
+                    "ville": "Ville"
+                },
+                "info": "Ces informations sont saisies sous la responsabilité et les déclarations du client et seront reportées à l'identique sur la lettre de résiliation qui sera envoyée par April. April décline toute responsabilité en cas d'information erronée. Sous cette réserve, April vous garantit qu'il n'auras pas d'interruption de garantie entre votre contrat actuel et le nouveau. Vous ne serez pas redevable de deux cotisations en même temps.",
+                "btn": {
+                    "annuler": "Annuler",
+                    "valider": "Valider"
+                },
+                "errors": {
+                    "required": "Champ obligatoire",
+                    "cpPattern": "Le code postal doit étre composé uniquement des chiffres",
+                    "cpLength": "Le code postal contient 5 chiffre",
+                    "cpInvalid": "Code postale n'est pas valide"
+                }
+            }
+        },
+        "vousMeme": {
+            "title": "Assuré principal",
+            "labels": {
+                "college": "Votre Collège",
+                "email": "Votre E-mail",
+                "dateAdhesion": "Votre Date d'adhésion",
+                "civilite": "Civilité",
+                "nom": "Votre Nom",
+                "prenom": "Votre Prénom",
+                "situationFamiliale": "Votre Situation familiale",
+                "dateNaissance": "Votre Date de naissance",
+                "regime": "Votre Régime",
+                "tel":"Votre Numéro de Téléphone",
+                "numSS": "Votre Numéro de Sécurité sociale",
+                "cle": "Clé",
+                "adresse": "Votre Adresse",
+                "codePostal": "Votre Code postal",
+                "ville": "Votre Ville",
+                "pays": "Votre Pays de naissance",
+                "politique": "Etes-vous politiquement exposé ?",
+                "entourage": "Votre entourage est-il politiquement exposé ?"
+            },
+            "champs":{
+                "obligatoire": "[*] Champs obligatoires"
+
+            },
+            "btn": {
+                "reinitialiser": "Réintialiser",
+                "suivant": "Suivant",
+                "sauvegarder": "Sauvegarder et Reprendre ulterieurement"
+            },
+            "errors": {
+                "required": "Champ obligatoire",
+                "cpPattern": "Le code postal doit étre composé uniquement des chiffres",
+                "cpLength": "Le code postal contient 5 chiffre",
+                "cpInvalid": "Code postale n'est pas valide",
+                "formatDate":"Format invalide ",
+                "patternNom": "Votre nom peut contenir seulement des lettres et chiffres.",
+                "patternPrenom":"Votre prenom peut contenir seulement des lettres et chiffres.",
+                "dateNaissFormat":"Format invalide",
+                "patternNmSS":"Votre N° Sécurité sociale est invalide "
+            }
+
+        }
+    }
+}
